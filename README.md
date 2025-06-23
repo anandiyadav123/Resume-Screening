@@ -29,7 +29,9 @@ A web application that predicts the job category from a resume using Natural Lan
 - **pickle** – Model serialization
 
 ---
-
+##  Dataset Link 
+https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset
+---
 ## 🧾 Requirements
 
 Install all required libraries using:
