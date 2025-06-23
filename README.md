@@ -1,11 +1,11 @@
 # Resume-Screening
-# 🧠 Resume Screening App (Streamlit)
+## 🧠 Resume Screening App (Streamlit)
 
 A web application that predicts the job category from a resume using Natural Language Processing (NLP) and a K-Nearest Neighbors (KNN) classifier. Built with Streamlit for real-time interaction.
 
 ---
 
-## Features
+## 🚀Features
 
 - Upload resumes in `.txt` or `.pdf` format
 - Automatically cleans and processes resume text
@@ -20,7 +20,7 @@ A web application that predicts the job category from a resume using Natural Lan
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 - **Python**
 - **Streamlit** – Web interface
